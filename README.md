@@ -4,7 +4,7 @@ Sou Desenvolvedora Front-End 💻
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
-🌱 &nbsp; Atualmente estou aprendendo **Angular**<br>
+🌱 &nbsp; Atualmente estou aprendendo o framework **Angular**<br>
 💼 &nbsp; Aqui, você vai encontrar alguns projetos que desenvolvi utilizando as tecnologias: <br>
 
  <div style="display: inline_block"><br>
