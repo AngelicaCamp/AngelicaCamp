@@ -36,18 +36,22 @@ Here are some ideas to get you started:
 
 
 <div align="left">
-  <a href="#" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=FFF"/>
-    
-  </a>
-  
   <a href="#" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
+  </a>
+  
+  <a href="#" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-ff3a5e?style=for-the-badge&logo=Gmail&logoColor=FFF"/>
   </a>
   
   <a href="#" alt="Discord">
     <img src="https://img.shields.io/badge/-Discord-ff3a5e?style=for-the-badge&logo=Discord&logoColor=FFF"/>
   </a>
 </div>
+
+
+
+
+
 
 
