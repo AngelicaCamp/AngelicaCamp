@@ -2,7 +2,7 @@
 
 </br>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
 - 🎓 &nbsp;Analista / Desenvolvedora de Sistemas
 -  📍 &nbsp;Moro em Foz do Iguaçu, PR
