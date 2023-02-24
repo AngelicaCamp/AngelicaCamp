@@ -7,7 +7,7 @@
 - 🎓 &nbsp; Desenvolvedora de Software, com foco em **Front-End**
 - 🌱 &nbsp; Atualmente estou aprendendo **Angular** - Framework JavaScript
 - 🌍 &nbsp; Moro em Foz do Iguaçu, PR
-- 💼 &nbsp; Conhecimentos: <br>
+- 💼 &nbsp; Skills: <br>
 
 
 
