@@ -1,6 +1,4 @@
-### Olá 👋
-
-Eu sou a Angélica
+### Olá 👋 , eu sou a Angélica!
 
 </br>
 
@@ -24,7 +22,7 @@ Eu sou a Angélica
 
 ---
 
-💌 &nbsp; Entre em contato comigo ⤵️
+💌 &nbsp; Entre em contato comigo ⤵️</br>
 
 
 <div align="left">
