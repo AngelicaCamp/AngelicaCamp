@@ -15,7 +15,7 @@ Sou Desenvolvedora Front-End 💻
   <img align="center" alt="VueJS"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 </div>
 
-<br>
+<br><br>
 
 Seja bem vindo(a) 🌍 o/ 
 
