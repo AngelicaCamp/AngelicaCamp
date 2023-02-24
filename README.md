@@ -1,14 +1,13 @@
-### Olá 👋 , eu sou a Angélica!
+### Olá 👋 , eu sou a Angélica! 🌍
 
 </br>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
-
-- 🎓 &nbsp; Analista / Desenvolvedora de Sistemas
 -  📍 &nbsp; Moro em Foz do Iguaçu, PR
+- 🎓 &nbsp; Analista / Desenvolvedora de Sistemas
 - 🌱 &nbsp; Atualmente estou estudando com foco em **desenvolvimento Front-End**
-- 💼 &nbsp; Skills: <br>
+- 💼 &nbsp; Conhecimentos: <br>
 
 
 
