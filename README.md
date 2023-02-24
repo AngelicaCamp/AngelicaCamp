@@ -10,6 +10,10 @@
 -  🌱 Atualmente estou estudando com foco em desenvolvimento Front-End
 -  💼 Skills:<br>
 
+- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
+- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
+- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+
 
 
  <div style="display: inline_block"><br>
@@ -40,9 +44,6 @@
     <img src="https://img.shields.io/badge/-Discord-7812fa?style=for-the-badge&logo=Discord&logoColor=FFF"/>
   </a>
 </div>
-
-
-
 
 
 
