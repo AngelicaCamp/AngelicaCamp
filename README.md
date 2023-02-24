@@ -2,13 +2,15 @@
 
 </br>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 
--  🎓 &nbsp;  Analista / Desenvolvedora de Sistemas
--  📍  &nbsp;  Moro em Foz do Iguaçu, PR
--  🌱 &nbsp;  Atualmente estou estudando com foco em desenvolvimento Front-End
--  💼 &nbsp;  Skills:<br>
+-  🎓 Analista / Desenvolvedora de Sistemas
+-  📍  Moro em Foz do Iguaçu, PR
+-  🌱 Atualmente estou estudando com foco em desenvolvimento Front-End
+-  💼 Skills:<br>
+
+
 
  <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
@@ -22,7 +24,7 @@
 
 ---
 
-💌 &nbsp; Entre em contato comigo ⤵️</br>
+📫 &nbsp; Entre em contato comigo: </br>
 
 
 <div align="left">
