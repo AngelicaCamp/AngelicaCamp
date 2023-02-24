@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <div align="left">
   <a href="#" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
+    <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=7812fa"/>
   </a>
   
   <a href="#" alt="Gmail">
