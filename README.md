@@ -19,8 +19,6 @@ Sou Desenvolvedora Front-End 💻
 
 Seja bem vindo(a) 🌍 o/ 
 
-<br>
-
 ##
 
 Fique a vontade para entrar em contato comigo 👇🏼
