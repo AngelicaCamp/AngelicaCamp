@@ -1,8 +1,9 @@
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 ## Olá pessoal 👋 
 
 Sou Desenvolvedora Front-End 💻
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 🌱 &nbsp; Atualmente estou aprendendo o framework **Angular**<br>
 💼 &nbsp; Aqui, você vai encontrar alguns projetos que desenvolvi utilizando as tecnologias: <br>
@@ -38,8 +39,6 @@ Fique a vontade para entrar em contato comigo 👇🏼
     <img src="https://img.shields.io/badge/-Discord-7812fa?style=for-the-badge&logo=Discord&logoColor=FFF"/>
   </a>
 </div>
-
-
 
 
 
