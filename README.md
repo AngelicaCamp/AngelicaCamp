@@ -2,13 +2,13 @@
 
 </br>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
 
--  🎓 &nbsp; Analista / Desenvolvedora de Sistemas
--  📍  &nbsp; Moro em Foz do Iguaçu, PR
--  🌱 &nbsp; Atualmente estou estudando com foco em desenvolvimento Front-End
--  💼 &nbsp; Skills:<br>
+-  🎓 &nbsp;  Analista / Desenvolvedora de Sistemas
+-  📍  &nbsp;  Moro em Foz do Iguaçu, PR
+-  🌱 &nbsp;  Atualmente estou estudando com foco em desenvolvimento Front-End
+-  💼 &nbsp;  Skills:<br>
 
  <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
