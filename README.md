@@ -5,11 +5,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 
--  🎓 Analista / Desenvolvedora de Sistemas
--  📍  Moro em Foz do Iguaçu, PR
--  🌱 Atualmente estou estudando com foco em desenvolvimento Front-End
--  💼 Skills:<br>
-
 - 🎓 &nbsp; Analista / Desenvolvedora de Sistemas
 -  📍 &nbsp; Moro em Foz do Iguaçu, PR
 - 🌱 &nbsp; Atualmente estou estudando com foco em **desenvolvimento Front-End**
