@@ -1,5 +1,7 @@
 ### Olá 👋, eu sou a Angélica
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 - 📍 &nbsp; Moro em Foz do Iguaçu, PR
 - 🎓 &nbsp; Analista / Desenvolvedora de Sistemas
 - 🌱 &nbsp; Atualmente estou estudando com foco em desenvolvimento Front-End
@@ -20,7 +22,7 @@
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 
 <p align="left">
