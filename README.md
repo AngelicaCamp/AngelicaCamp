@@ -21,7 +21,9 @@ Seja bem vindo(a) 🌍 o/
 
 <br>
 
-## Contato
+##
+
+Fique a vontade para entrar em contato comigo 👇🏼
 
 <div align="left">
   <a href="#" alt="Linkedin">
