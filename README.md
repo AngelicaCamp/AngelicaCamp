@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋, eu sou a Angélica
 
 <!--
 **AngelicaCamp/AngelicaCamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,20 +18,19 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+   <strong>Sou desenvolvedora Front-End</strong>.<br>
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  🦄 Linguagens: <strong>HTML, CSS, JavaScript.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  💼 Ferramentas: <strong>Vue.js, Angular, Node.Js</strong>
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Entre em contato comigo ⤵️
 </p>
 
 
