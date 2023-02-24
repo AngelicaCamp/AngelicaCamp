@@ -4,9 +4,9 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
-- 📍  &nbsp;  Moro em Foz do Iguaçu, PR
-- 🎓 &nbsp; Sou analista / desenvolvedora de sistemas
-- 🌱 &nbsp; Atualmente estou estudando com foco em **desenvolvimento Front-End**
+- 🎓 &nbsp; Desenvolvedora de Sistemas, com foco em **Front-End**
+- 🌱 &nbsp; Atualmente estou aprendendo **Angular** - Framework JavaScript
+- 🌍 &nbsp; Moro em Foz do Iguaçu, PR
 - 💼 &nbsp; Conhecimentos: <br>
 
 
@@ -17,13 +17,10 @@
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
   <img align="center" alt="VueJS"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-</div><br>
-
-
-
----
+</div><br><br>
 
 Contato
+---
 
 
 <div align="left">
