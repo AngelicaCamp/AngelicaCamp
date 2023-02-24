@@ -23,7 +23,7 @@
 
 ---
 
-📫 &nbsp; Entre em contato comigo: </br>
+Contato
 
 
 <div align="left">
