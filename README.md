@@ -1,15 +1,11 @@
-### Olá 👋 , eu sou a Angélica! 🌍
+## Olá pessoal 👋 
 
-</br>
+Sou Desenvolvedora Front-End 💻
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
-- 🎓 &nbsp; Desenvolvedora de Software, com foco em **Front-End**
-- 🌱 &nbsp; Atualmente estou aprendendo **Angular** - Framework JavaScript
-- 🌍 &nbsp; Moro em Foz do Iguaçu, PR
-- 💼 &nbsp; Skills: <br>
-
-
+- 🌱 &nbsp; Atualmente estou aprendendo **Angular**
+- 💼 &nbsp; Aqui, você vai encontrar alguns projetos desenvolvidos utilizando as seguintes tecnologias: <br>
 
  <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
@@ -19,7 +15,10 @@
   <img align="center" alt="VueJS"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 </div><br><br>
 
-Contato
+Seja bem vindo(a) 🌍 o/
+
+
+Como entrar em contato comigo 👇🏼
 ---
 
 
