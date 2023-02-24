@@ -5,7 +5,7 @@
 
 Sou Desenvolvedora Front-End 💻
 
-<br</br>
+<br><br>
 
 🌱 &nbsp; Atualmente estou aprendendo o framework **Angular**<br>
 💼 &nbsp; Aqui, você vai encontrar alguns projetos que desenvolvi utilizando as tecnologias: <br>
