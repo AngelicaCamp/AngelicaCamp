@@ -1,27 +1,9 @@
 ### Olá 👋, eu sou a Angélica
 
-- 📍  &nbsp; Foz do Iguaçu, PR
+- 📍 &nbsp; Moro em Foz do Iguaçu, PR
 - 🎓 &nbsp; Analista / Desenvolvedora de Sistemas
 - 🌱 &nbsp; Atualmente estou estudando com foco em desenvolvimento Front-End
 - 💌 &nbsp; Entre em contato comigo ⤵️
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-<p align="left"> 
-   <strong>Sou desenvolvedora Front-End</strong>.<br>
-</p>
-
-<p align="left">
-  🦄 Linguagens: <strong>HTML, CSS, JavaScript.</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>Vue.js, Angular, Node.Js</strong>
-</p>
-
-<p align="left">
-  💌 Entre em contato comigo ⤵️
-</p>
 
 
 <div align="left">
@@ -37,6 +19,21 @@
     <img src="https://img.shields.io/badge/-Discord-7812fa?style=for-the-badge&logo=Discord&logoColor=FFF"/>
   </a>
 </div>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+
+<p align="left">
+  🦄 Linguagens: <strong>HTML, CSS, JavaScript.</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>Vue.js, Angular, Node.Js</strong>
+</p>
+
+
+
+
 
 
 
