@@ -13,14 +13,15 @@ Sou Desenvolvedora Front-End 💻
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
   <img align="center" alt="VueJS"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-</div><br><br>
+</div>
 
+<br><br>
 
 Seja bem vindo(a) 🌍 o/ 
 
+<br><br>
 
-📫 Contato
-
+## Contato
 
 <div align="left">
   <a href="#" alt="Linkedin">
@@ -35,9 +36,6 @@ Seja bem vindo(a) 🌍 o/
     <img src="https://img.shields.io/badge/-Discord-7812fa?style=for-the-badge&logo=Discord&logoColor=FFF"/>
   </a>
 </div>
-
-
-
 
 
 
