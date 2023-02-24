@@ -18,9 +18,9 @@ Sou Desenvolvedora Front-End 💻
 Seja bem vindo(a) 🌍 o/
 
 
-Como entrar em contato comigo 👇🏼
 ---
 
+Como entrar em contato comigo 👇🏼
 
 <div align="left">
   <a href="#" alt="Linkedin">
