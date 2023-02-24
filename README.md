@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
-- 🎓 &nbsp; Desenvolvedora de Sistemas, com foco em **Front-End**
+- 🎓 &nbsp; Desenvolvedora de Software, com foco em **Front-End**
 - 🌱 &nbsp; Atualmente estou aprendendo **Angular** - Framework JavaScript
 - 🌍 &nbsp; Moro em Foz do Iguaçu, PR
 - 💼 &nbsp; Conhecimentos: <br>
