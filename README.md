@@ -10,9 +10,10 @@
 -  🌱 Atualmente estou estudando com foco em desenvolvimento Front-End
 -  💼 Skills:<br>
 
-- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 🎓 &nbsp; Analista / Desenvolvedora de Sistemas
+-  📍 &nbsp; Moro em Foz do Iguaçu, PR
+- 🌱 &nbsp; Atualmente estou estudando com foco em **desenvolvimento Front-End**
+- 💼 &nbsp; Skills: <br>
 
 
 
