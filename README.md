@@ -3,7 +3,7 @@
 
 ## Olá pessoal 👋 
 
-Sou Desenvolvedora de Software, com foco em Front-End 💻
+Sou Desenvolvedora Front-End 💻
 
 🌱 &nbsp; Atualmente estou aprendendo o framework **Angular**<br>
 💼 &nbsp; Aqui, você vai encontrar alguns projetos que desenvolvi utilizando as tecnologias: <br>
