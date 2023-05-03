@@ -22,6 +22,8 @@ Sou Desenvolvedora Front-End 💻
   <img align="center" alt="VueJS"  title="VueJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   
    <img align="center" alt="Vuetify"  title="Vuetify" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
+ 
+  <img align="center" alt="Nuxt"  title="Nuxt" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxt/nuxt-original.svg" />
 </div>
 
 <br><br>
