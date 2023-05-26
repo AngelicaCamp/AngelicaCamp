@@ -2,11 +2,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ## Olá pessoal 👋
-I am passionate about solving problems using programming.
+Sou analista de sistemas, apaixonada por programação, especialmente desenvolvimento front-end 💻
 
-I'm Full Stack in the web development 💻
-
-💻 Analista de Sistemas | Desenvolvedora Web<br>
 🌱 &nbsp; Atualmente estou aprendendo o framework **Angular**<br>
 💼 &nbsp; Aqui, você vai encontrar alguns projetos que desenvolvi utilizando as tecnologias: <br>
 
@@ -21,10 +18,10 @@ I'm Full Stack in the web development 💻
  
   <img align="center" alt="Javascript" title="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
  
-  <img align="center" alt="VueJS"  title="VueJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  
-   <img align="center" alt="Vuetify"  title="Vuetify" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
+   <img align="center" alt="Typescript" title="Typescript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
  
+  <img align="center" alt="VueJS"  title="VueJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+   
 </div>
 
 <br><br>
