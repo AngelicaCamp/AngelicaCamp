@@ -2,9 +2,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ## Olá pessoal 👋
-Sou analista de sistemas, apaixonada por programação, especialmente desenvolvimento front-end 💻
 
-🌱 &nbsp; Atualmente estou aprendendo o framework **Angular**<br>
+Sou analista e desenvolvedora de sistemas, apaixonada por programação, especialmente desenvolvimento front-end 💻
+
+ 🌱 &nbsp; Atualmente estou aprendendo o framework **Angular**<br>
 💼 &nbsp; Aqui, você vai encontrar alguns projetos que desenvolvi utilizando as tecnologias: <br>
 
  <div style="display: inline_block"><br>
