@@ -1,9 +1,10 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-##👋 Olá pessoal ##
+## Olá pessoal 👋
+I am passionate about solving problems using programming.
 
-<br><br>
+I'm Full Stack in the web development 💻
 
 💻 Analista de Sistemas | Desenvolvedora Web<br>
 🌱 &nbsp; Atualmente estou aprendendo o framework **Angular**<br>
