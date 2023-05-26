@@ -1,7 +1,10 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-👋 Oi, eu sou @AngelicaCamp<br>
+##👋 Olá pessoal ##
+
+<br><br>
+
 💻 Analista de Sistemas | Desenvolvedora Web<br>
 🌱 &nbsp; Atualmente estou aprendendo o framework **Angular**<br>
 💼 &nbsp; Aqui, você vai encontrar alguns projetos que desenvolvi utilizando as tecnologias: <br>
