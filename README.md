@@ -3,7 +3,7 @@
 
 ## Olá pessoal 👋
 
-Sou analista e desenvolvedora de sistemas, apaixonada por programação, especialmente desenvolvimento front-end 💻
+Sou analista e desenvolvedora de sistemas 💻
 
  🌱 &nbsp; Atualmente estou aprendendo o framework **Angular**<br>
 💼 &nbsp; Aqui, você vai encontrar alguns projetos que desenvolvi utilizando as tecnologias: <br>
