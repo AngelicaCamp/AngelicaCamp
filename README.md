@@ -22,11 +22,12 @@
    
 </div>
 
-<br><br>
+<br>
 
 Seja bem vindo(a) 🌍 o/ 
 
 Fique a vontade para entrar em contato comigo 👇🏼
+
 
 <div align="left">
   <a href="#" alt="Linkedin">
