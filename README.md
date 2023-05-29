@@ -28,6 +28,8 @@ Seja bem vindo(a) 🌍 o/
 
 Fique a vontade para entrar em contato comigo 👇🏼
 
+<br>
+
 
 <div align="left">
   <a href="#" alt="Linkedin">
