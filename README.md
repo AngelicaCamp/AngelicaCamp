@@ -19,6 +19,9 @@
    <img align="center" alt="Typescript" title="Typescript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
  
   <img align="center" alt="VueJS"  title="VueJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+ 
+   <img align="center" alt="React"  title="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
    
 </div>
 
