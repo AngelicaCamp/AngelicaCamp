@@ -31,11 +31,11 @@ Fique a vontade para entrar em contato comigo 👇🏼
 
 
 <div align="left">
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/ang%C3%A9lica-campos/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-7812fa?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
   </a>
   
-  <a href="#" alt="Gmail">
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-7812fa?style=for-the-badge&logo=Gmail&logoColor=FFF"/>
   </a>
 </div>
