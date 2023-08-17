@@ -38,10 +38,6 @@ Fique a vontade para entrar em contato comigo 👇🏼
   <a href="#" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-7812fa?style=for-the-badge&logo=Gmail&logoColor=FFF"/>
   </a>
-  
-  <a href="#" alt="Discord">
-    <img src="https://img.shields.io/badge/-Discord-7812fa?style=for-the-badge&logo=Discord&logoColor=FFF"/>
-  </a>
 </div>
 
 
